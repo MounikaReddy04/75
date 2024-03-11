@@ -1,0 +1,18 @@
+// public/eventsData.json
+{
+  "events": [
+    { "id": 1, "name": "Club Activity Inauguration", "date": "27-11-2021", "details": "View details" },
+    { "id": 2, "name": "Five-Day Workshop on Website Design and Development", "date": "14-12-2021 to 18-12-2021", "details": "View details" },
+    { "id": 3, "name": "Udhbhava, Technical Club Activity - \"Your Start-Up Story\"", "date": "04-12-2021", "details": "View details" },
+    { "id": 4, "name": "University Toppers of CSE Department-2021", "date": "17-12-2021", "details": "View details" },
+    { "id": 5, "name": "Sparks-Intelligentia 22", "date": "29-03-2022", "details": "View details" },
+    { "id": 6, "name": "UI Designing Hackathon", "date": "16-05-2022", "details": "View details" },
+    { "id": 7, "name": "Bootcamp on Data Analytics", "date": "31-5-2022 to 4-6-2022", "details": "View details" },
+    { "id": 8, "name": "Smart India Hackathon", "date": "25-8-2022 to 29-8-2022", "details": "View details" },
+    { "id": 9, "name": "Prototype Design on Robotics", "date": "21-10-2022", "details": "View details" },
+    { "id": 10, "name": "Two Days Workshop on Cloud Computing AWS", "date": "18-11-2022 to 19-11-2022", "details": "View details" },
+    { "id": 11, "name": "Three Days Workshop on UI/UX Design", "date": "20-12-2022 to 22-12-2022", "details": "View details" },
+    { "id": 12, "name": "Coding Club", "date": "05-05-2023", "details": "View details" },
+    { "id": 13, "name": "3-Days Hands-on Workshop on Agile & Scrum", "date": "22-6-2023 to 24-6-2023", "details": "View details" }
+  ]
+}

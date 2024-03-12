@@ -1,0 +1,21 @@
+[
+  {
+    "slNo": 1,
+    "name": "CLUB ACTIVITY INAUGURATION",
+    "date": "27-11-2021",
+    "details": "View details"
+  },
+  {
+    "slNo": 2,
+    "name": "FIVE-DAY WORKSHOP ON WEBSITE DESIGN AND DEVELOPMENT",
+    "date": "14-12-2021 to 18-12-2021",
+    "details": "View details"
+  },
+  {
+    "slNo": 3,
+    "name": "UDHBHAVA, Technical club Activity-'YOUR START-UP STORY'",
+    "date": "04-12-2021",
+    "details": "View details"
+  },
+  // Add more events data here
+]
